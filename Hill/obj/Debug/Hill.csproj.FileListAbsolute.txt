@@ -1,0 +1,11 @@
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\bin\Debug\Hill.exe.config
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\bin\Debug\Hill.exe
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\bin\Debug\Hill.pdb
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.csprojResolveAssemblyReference.cache
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.Form1.resources
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.Properties.Resources.resources
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.csproj.GenerateResource.Cache
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.exe
+c:\users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.pdb
+C:\Users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.Form2.resources
+C:\Users\invis\documents\visual studio 2017\Projects\Hill\Hill\obj\Debug\Hill.Form3.resources
